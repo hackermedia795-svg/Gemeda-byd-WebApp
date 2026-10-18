@@ -1,0 +1,8 @@
+{
+  "name": "Gemeda BYD WebApp",
+  "description": "Sirna bitannaa tikkeetii konkolaataa BYD, mirkaneessa kaffaltii Telebirr \u0026 Baankii, fi to\u0027annoo bulchiinsaa - Gemeda BYD Car Lottery \u0026 Payment Verification Portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

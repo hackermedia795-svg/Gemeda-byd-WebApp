@@ -23,7 +23,9 @@ export interface PaymentSubmission {
   receiptUrl?: string;
   status: PaymentStatus;
   ticketIssued: boolean;
+  source?: 'online' | 'walk-in';
   createdAt: string;
+  createdAtIso?: string; // Exact ISO timestamp (used for analytics charts)
   reviewedAt?: string;
   reviewedBy?: string;
   adminNotes?: string;
